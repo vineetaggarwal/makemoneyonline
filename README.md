@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Make Momey on Line
 
-You can use the [editor on GitHub](https://github.com/vineetaggarwal/makemoneyonline/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You must have multiple income streams.
+Some of the tried & trusted one's you can start right now are : 
+
+## EXTRA Income Source 1
+
+[Download Music app](https://play.google.com/store/apps/details?id=org.americanpublicmedia.thecurrent&hl=en_US) - Earn REAL rewards while listening to Music of your choice. Search & Play from 100,000+ Radio Stations including Bollywood, Meditation, Comedy - Prank Calls, Yoga music and much more.
+
+Earn Points By Playing Your Favorite Music
+
+Spend Your Points On Your Favorite Brands
+
+(https://play.google.com/store/apps/details?id=org.americanpublicmedia.thecurrent&hl=en_US) !(D:\Documents\10 Websites\Git Pages\Make Money On Line\current app google-play-badge.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -24,7 +35,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
